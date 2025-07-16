@@ -1,5 +1,10 @@
-print("Hello Git!")
+
 print("Hello World at 10:33")
 print("Hello World at 10:50")
-print("Hello World at 11:00")
-print("This is my second commit.")
+
+
+
+
+print("Learning Git step by step.")
+
+print ("Hello world at 11:26")
